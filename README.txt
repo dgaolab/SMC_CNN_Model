@@ -1,4 +1,4 @@
-# Repurposing Splicing Modulator Compounds from RNA-Seq Data    
+# Repurposing Splicing Modulator Compounds (SMCs) from RNA-Seq Data    
     
 ===========================================================================
 INTRODUCTION
