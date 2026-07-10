@@ -1,5 +1,5 @@
-** Repurposing Splicing Modulator Compounds from RNA-Seq Data **
-
+# Repurposing Splicing Modulator Compounds from RNA-Seq Data    
+    
 ===========================================================================
 INTRODUCTION
 This README file demonstrates how to regenerate data and figures described in the paper "A deep learning approach to identify new gene targets of a novel therapeutic for human splicing disorders".
